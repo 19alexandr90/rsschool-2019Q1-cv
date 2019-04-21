@@ -111,50 +111,42 @@ img {
 }
 
 .email::before {
-  background: url("./images/email.png");
-  background-size: cover;
+  background: url("./images/email.png") center/cover;
   border-radius: 25%;
 }
 
 .skype::before {
-  background: url("./images/skype.png");
-  background-size: cover;
+  background: url("./images/skype.png") center/cover;
   border-radius: 25%;
 }
 
 .git::before {
-  background: url("./images/git.png");
-  background-size: cover;
+  background: url("./images/git.png") center/cover;
   border-radius: 25%;
 }
 
 .vscode::before {
-  background: url("./images/vscode.png");
-  background-size: cover;
+  background: url("./images/vscode.png") center/cover;
   border-radius: 25%;
 }
 
 .js::before {
-  background: url("./images/js.png");
-  background-size: cover;
+  background: url("./images/js.png") center/cover;
   border-radius: 25%;
 }
 
 .html::before {
-  background: url("./images/html.png");
-  background-size: cover;
+  background: url("./images/html.png") center/cover;
   border-radius: 25%;
 }
 
 .css::before {
-  background: url("./images/CSS.png");
-  background-size: cover;
+  background: url("./images/CSS.png") center/cover;
   border-radius: 25%;
 }
 
 .windows::before {
-  background: url("./images/windows.png");
-  background-size: cover;
+  background: url("./images/windows.png") center/cover;
   border-radius: 25%;
 }
 
@@ -174,8 +166,7 @@ img {
   display: inline-block;
   width: 48px;
   height: 48px;
-  background-image: url("./images/github.jpg");
-  background-size: cover;
+  background-image: url("./images/github.jpg") center/cover;
   border-radius: 50%;
   content: " ";
   transition: filter 200ms ease-out;
