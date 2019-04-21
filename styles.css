@@ -91,7 +91,7 @@ img {
   content: " ";
 }
 
-.post-margin {
+.section-post-margin {
   margin-bottom: 50px;
 }
 
@@ -147,7 +147,7 @@ img {
 }
 
 .css::before {
-  background: url("./images/css.png");
+  background: url("./images/CSS.png");
   background-size: cover;
   border-radius: 25%;
 }
