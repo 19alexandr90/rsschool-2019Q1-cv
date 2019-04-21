@@ -166,7 +166,7 @@ img {
   display: inline-block;
   width: 48px;
   height: 48px;
-  background-image: url("./images/github.jpg") center/cover;
+  background: url("./images/github.jpg") center/cover;
   border-radius: 50%;
   content: " ";
   transition: filter 200ms ease-out;
